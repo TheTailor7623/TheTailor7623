@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheTailor7623
 - 👀 I’m interested in problem solving, critical thinking, articulate speaking.
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning about software engineering
 - ⚡ I like writing, swimming, working out and coding
 
 <!---
