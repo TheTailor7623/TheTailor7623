@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Personal portfolio**
 
-- 🌱 I’m currently learning **C++, ThreeJS**
+- 🌱 I have experience with **Python** and am currently learning **C++**
 
 - 📫 How to reach me **ysapplications261612@gmail.com**
 
