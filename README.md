@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Youssif</h1>
 <h3 align="center">On a life long journey to become a better problem solver, critical thinker, and articulate speaker</h3>
 
-- 🔭 I’m currently working on a **Personal portfolio**
+- 🔭 I’m currently working on a **Hybrid Cloud SaaS Web application**
 
 - 🌱 I have experience with **Python, C++, HTML, CSS**
 
-- 🌱 Currently learning **Javascript** and **ThreeJS**
+- 🌱 Currently learning **Javascript**, **React**, **Java**, **Spring**, **SASS**
 
 - 📫 How to reach me **ysapplications261612@gmail.com**
 
