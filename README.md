@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetailor7623&show_icons=true&locale=en&layout=compact&theme=dark" alt="thetailor7623" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetailor7623&show_icons=true&locale=en&layout=compact&theme=dark&timestamp={{timestamp}}" alt="thetailor7623" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetailor7623&show_icons=true&locale=en&theme=dark" alt="thetailor7623" /></p>
 
