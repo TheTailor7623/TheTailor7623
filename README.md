@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Hybrid Cloud SaaS Web application**
 
-- 🌱 I have experience with **Python, Relational DBs, Django, Django rest framework, HTML, CSS, SCSS**
+- 🌱 I have experience with **Python, Relational DBs, Django, Django REST framework, HTML, CSS, SCSS**
 
 - 🌱 Currently learning **Javascript, React, Three.js, R3F, Redis, Celery**
 
