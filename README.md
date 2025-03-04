@@ -7,7 +7,7 @@
 
 - 🌱 I have experience with **Python, Relational DBs, Django, Django REST framework, HTML, CSS, SCSS**
 
-- 🌱 Currently learning **Javascript, React, Three.js, R3F, Redis, Celery**
+- 🌱 Currently learning **Javascript, React, Three.js, Redis, Celery**
 
 - 📫 How to reach me **ysapplications261612@gmail.com**
 
